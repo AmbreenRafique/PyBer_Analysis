@@ -15,5 +15,5 @@
 ## Analysing rideshare data for PyBer 
 ### Results
 
-<img width="692" alt="PyBer1" src="https://user-images.githubusercontent.com/108497494/182724304-1df6ee11-8aa6-4297-a211-1d5cb96b6973.png"><img width="692" alt="PyBer1" src="https://user-images.githubusercontent.com/108497494/182724364-041dcbd0-570a-4381-86c0-5f289b92cc51.png">
+ <img width="692" alt="PyBer1" src="https://user-images.githubusercontent.com/108497494/182724498-a068a5e7-8044-4d72-a126-665105c4b3b2.png">
 
